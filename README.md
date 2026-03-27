@@ -21,7 +21,7 @@ This dashboard answers important business questions:
 ---
 
 # 📊 Dashboard 1 — Sales Overview
-<img src='dashboard/Product Performance Dashboard.png'>
+<img src='dashboard/Sales Overview Dashboard.png'>
 ![Sales Overview Dashboard](dashboards/sales_overview_dashboard.png)
 
 This dashboard provides a high-level summary of the business performance including:
