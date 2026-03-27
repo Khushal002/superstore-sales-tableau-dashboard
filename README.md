@@ -57,7 +57,7 @@ Key benefits of this analysis:
 ---
 
 # 🌎 Dashboard 3 — Regional Sales Analysis
-<img src='dashboard/Product Performance Dashboard.png'>
+<img src='dashboard/Regional Sales Dashboard.png'>
 ![Regional Sales Dashboard](dashboards/regional_sales_dashboard.png)
 
 This dashboard analyzes sales performance across geographic regions.
