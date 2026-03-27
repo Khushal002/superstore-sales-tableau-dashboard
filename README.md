@@ -34,4 +34,107 @@ This dashboard provides a high-level summary of the business performance includi
 * Sales by Region
 * Sales by Category
 
-This view helps stakeholders quickly unders
+This view helps stakeholders quickly understand **overall business health and trends**.
+
+---
+
+# 📦 Dashboard 2 — Product Performance
+
+![Product Performance Dashboard](dashboards/product_performance_dashboard.png)
+
+This dashboard focuses on product-level insights including:
+
+* Top 10 Products by Sales
+* Sales Distribution by Category
+* Sub-Category Profit Performance
+
+Key benefits of this analysis:
+
+* Identifies **top-performing products**
+* Highlights **profitable vs loss-making sub-categories**
+* Supports **product strategy and pricing decisions**
+
+---
+
+# 🌎 Dashboard 3 — Regional Sales Analysis
+
+![Regional Sales Dashboard](dashboards/regional_sales_dashboard.png)
+
+This dashboard analyzes sales performance across geographic regions.
+
+Insights include:
+
+* Sales by Region
+* Category performance comparison
+* Monthly Sales Trends
+
+This helps businesses understand **regional market performance and seasonal demand patterns**.
+
+---
+
+# 🛠 Tools Used
+
+* **Tableau** – Data Visualization & Dashboard Creation
+* **Superstore Dataset** – Retail Sales Data
+* **Business Intelligence Techniques**
+* **Data Storytelling & Visualization**
+
+---
+
+# 📈 Key Insights
+
+* The **Technology category generates the highest revenue** among all categories.
+* The **West region contributes the largest share of sales**.
+* Some sub-categories show **negative profit**, indicating pricing or cost issues.
+* Sales **increase significantly in Q4**, suggesting strong seasonal demand.
+
+---
+
+# 📂 Repository Structure
+
+```
+superstore-sales-tableau-dashboard
+│
+├── dashboards
+│   ├── sales_overview_dashboard.png
+│   ├── product_performance_dashboard.png
+│   └── regional_sales_dashboard.png
+│
+├── dataset
+│   └── superstore.csv
+│
+├── tableau_file
+│   └── superstore_dashboard.twbx
+│
+└── README.md
+```
+
+---
+
+# 📥 Tableau Workbook
+
+Download the interactive Tableau workbook:
+
+```
+tableau_file/superstore_dashboard.twbx
+```
+
+Open the file using **Tableau Desktop** to explore the dashboards interactively.
+
+---
+
+# 🚀 Skills Demonstrated
+
+* Data Visualization
+* Business Intelligence
+* Dashboard Design
+* Data Storytelling
+* Sales & Profit Analysis
+
+---
+
+# 👨‍💻 Author
+
+**Khushal**
+Aspiring Data Analyst
+📊 Passionate about Data Analytics, Business Intelligence, and Data Visualization
