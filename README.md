@@ -21,7 +21,7 @@ This dashboard answers important business questions:
 ---
 
 # 📊 Dashboard 1 — Sales Overview
-
+<img src='dashboard/Product Performance Dashboard.png'>
 ![Sales Overview Dashboard](dashboards/sales_overview_dashboard.png)
 
 This dashboard provides a high-level summary of the business performance including:
@@ -39,7 +39,7 @@ This view helps stakeholders quickly understand **overall business health and tr
 ---
 
 # 📦 Dashboard 2 — Product Performance
-
+<img src='dashboard/Product Performance Dashboard.png'>
 ![Product Performance Dashboard](dashboards/product_performance_dashboard.png)
 
 This dashboard focuses on product-level insights including:
@@ -57,7 +57,7 @@ Key benefits of this analysis:
 ---
 
 # 🌎 Dashboard 3 — Regional Sales Analysis
-
+<img src='dashboard/Product Performance Dashboard.png'>
 ![Regional Sales Dashboard](dashboards/regional_sales_dashboard.png)
 
 This dashboard analyzes sales performance across geographic regions.
