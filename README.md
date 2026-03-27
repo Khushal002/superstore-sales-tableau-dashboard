@@ -116,7 +116,7 @@ superstore-sales-tableau-dashboard
 Download the interactive Tableau workbook:
 
 ```
-tableau_file/superstore_dashboard.twbx
+super_store_tableau_dashboard.twb
 ```
 
 Open the file using **Tableau Desktop** to explore the dashboards interactively.
